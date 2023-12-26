@@ -1,0 +1,29 @@
+[
+    {
+        "username": "Aravindraja",
+        "password": "$2y$10$X6TENypafZ6kdWNqhBv8ee5skSxu4xpovIhgM9VOGwMRy2g7.FpLG",
+        "repassword": "Hello123",
+        "adno": "123412341234",
+        "phno": "7598675720",
+        "email": "saravindraj02@gmail.com",
+        "address": "plot no 214",
+        "city": "hosur",
+        "state": "Tamil nadu",
+        "dob": "2002-05-24",
+        "gender": "Male",
+        "bldgrp": "A+"
+    },
+    {
+        "username": "Sundaresan CP",
+        "password": "$2y$10$GjZsrasJmjg2dgE6KUpdWef9trzQTCBxNJLb.IZzns4ccdyGDdU1a",
+        "adno": "123412341234",
+        "phno": "9443502633",
+        "email": "cpsundaresan67@gmail.com",
+        "address": "plot no 214",
+        "city": "hosur",
+        "state": "tamilnadu",
+        "dob": "1968-06-10",
+        "gender": "Male",
+        "bldgrp": "AB+"
+    }
+]
